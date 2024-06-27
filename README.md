@@ -20,7 +20,7 @@ The following datasets from Kaggle and a Spotify playlist were used in this proj
 ## Files
 
 - **content_based_music_recommender.ipynb**: Jupyter notebook containing the code and analysis for the content-based music recommendation system.
-- **data**: Folder contains the CSV files containing the dataset used, including song names, artists, genres, etc... 
+- **Dataset**: Folder contains the CSV files containing the dataset used, including song names, artists, genres, etc... 
 
 ## Methodology
 
